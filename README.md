@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hi there, I'm Chris 👋
+<img src="https://lindale.atl1.cdn.digitaloceanspaces.com/stack-overflow.jpeg" width="300px"/>
+
+Currently working on ...
+
+- 🧭 **[ismitchmcconnella.live](https://ismitchmcconnella.live)** Squeezing 1,000rps out of a cheap VPS and Convex free tier?
+- 🐶 **[cafezoe.lol](https://cafezoe.lol)** AI generated posts for your pets
+- 📖 **[nitenite.mom](https://nitenite.mom)** A daily bedtime story for your toddler with sticker-book animations
+- 🤫 (and a saucy version for mom yet to be named with audio narration)
+- 🤖 All the above built on an AI content generation lib I'm building with some novel features for storytelling (persistent characters, entities, de-slopification, etc.)
+- 🕯️ **[kenzieskandles.com](https://kenzieskandles.com)** My grand-nieces side-hustle
 
 <!--
 **chrisyerga/chrisyerga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
