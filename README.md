@@ -3,7 +3,8 @@
 
 Currently working on ...
 
-- 🧭 **[ismitchmcconnella.live](https://ismitchmcconnella.live)** Squeezing 1,000rps out of a cheap VPS and Convex free tier?
+- 🧭 **[ismitchmcconnella.live](https://ismitchmcconnella.live)** Squeezing 1,000rps out of a cheap VPS and Convex free tier? Public repo here [mitch-dot-live](https://github.com/chrisyerga/mitch-dot-live)
+- 🧆 **[@lindale/porch](https://github.com/chrisyerga/porch)** Manages shared edge infrastructure to serve many domains/projects from a single cheap VPS. Everything here uses it and a $8 Digital Ocean droplet. Let's your agent set it up in your repo.
 - 💻 Modifying the Convex self-hosted backend to learn more about V8 and Rust
 - 🌮 **[Lindale Digital](https://lindale.tech)** private repo work for clients
 - 🐶 **[cafezoe.lol](https://cafezoe.lol)** AI generated posts for your pets. Parts in the public lbbb repo here.
