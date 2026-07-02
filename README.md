@@ -13,5 +13,6 @@ Currently working on ...
 - 🤫 (and a saucy version for mom yet-to-be-named with audio narration)
 - 🤖 All the above built on an AI content generation lib I'm building with some novel features for storytelling (persistent characters, entities, de-slopification, etc.)
 - 🕯️ **[kenzieskandles.com](https://kenzieskandles.com)** My grand-nieces side-hustle
+- 🥧 **[squat-cobbler](https://github.com/chrisyerga/squat-cobbler)** Collection of extensions and skills for the [Pi coding agent](https://pi.dev) that I will eventually use more. I really like Pi in theory but am really happy with the value, performance and output of Cursor's Composer 2.5 so I rarely use Pi. I expect with some upcoming persistent cloud agents I'm working on that most or all of them will end up being ```pi -p``` in some form
 
 So many projects to start and never finish...
