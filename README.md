@@ -3,6 +3,8 @@
 
 Currently working on ...
 
+- 👾 Konami: Jev-powered video game player. Uses Typesafe.ai's new Jev model to generate keypresses based on game state. Private repo as it contains code I do not own, but I'll split out the core service as an example someday
+- 📹 Thelma: AI-powered video editing. Send it long rambling videos and it will cut into sensibly-edited videos at multiple durations. Captions, overlay graphics, story editing, fullscreen graphics. Built on top of FFMPEG and Remotion for Typescript-based graphics. It's all command-line driven and built for my workflow so YMMV
 - 🏭 Forge: Automated AI content generation for  the various apps below now automating technical SEO tasks for the website
 - 🧭 **[ismitchmcconnella.live](https://ismitchmcconnella.live)** Squeezing 1,000rps out of a cheap VPS and Convex free tier? Public repo here [mitch-dot-live](https://github.com/chrisyerga/mitch-dot-live)
 - 🧆 **[@lindale/porch](https://github.com/chrisyerga/porch)** Manages shared edge infrastructure to serve many domains/projects from a single cheap VPS. Everything here uses it and a $8 Digital Ocean droplet. Let's your agent set it up in your repo.
