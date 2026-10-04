@@ -9,7 +9,7 @@
 
 ### Currently working on ...
 
-- 🌵**[On-Device AI](https://prickly.newtrics.ai): Experimentin with Cactus AI speech-to-text and on-device inference
+- 🌵 **[On-Device AI](https://prickly.newtricks.ai)**: Experimenting with Cactus AI speech-to-text and on-device inference. In the prickly repo
 - ☑️ **[Semantically-Aware UI Toolkit](https://github.com/chrisyerga/jev-ui)**: An exploration into using Jev to add intelligence to UI, both at the component and page levels. When a model is so fast and cheap, we can start considering including it in the browser event-interaction loop.
 - 📹 **[Thelma](https://github.com/chrisyerga/thelma)**: AI-powered video editing. I send it long rambling videos and it will cut into sensibly-edited videos at multiple durations. Captions, overlay graphics, story editing, fullscreen graphics. Can use hand-gestures as a meta-key to give voice commands...kinda. Built on top of FFMPEG and Remotion for Typescript-based graphics. It's all command-line driven and built for my workflow so this is definitely not going to be plug-and-play for anyone else
 - 👾 **[konami](https://github.com/chrisyerga/konami)**: Jev-powered video game player. Uses Typesafe.ai's new Jev model to generate keypresses based on game state. Private repo as it contains code I do not own, but I'll split out the core service as an example someday
